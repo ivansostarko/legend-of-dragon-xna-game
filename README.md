@@ -1,2 +1,2 @@
-# legend-of-dragon-xna-game
+# legend-of-dragon-xna-game install
 Open Source PC game
