@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # Legend of Dragon 
 
 An old game I made in 2010 for National competition in informatics - Infokup (Croatia). This is a 3D game using Microsoft XNA 3.0 and C# .NET 2.0. 
 
-![Alt text](https://raw.githubusercontent.com/IvanSostarko/legend-of-dragon-xna-game/gh-pages/images/legenda_o_zmaju.jpg "Title")
+![Legenda o zmaju](https://raw.githubusercontent.com/IvanSostarko/legend-of-dragon-xna-game/gh-pages/images/legenda_o_zmaju.jpg "Legenda o zmaju")
 
 
 ## Game Scope
@@ -31,4 +30,4 @@ Open installation folder and run setup.exe
 =======
 # legend-of-dragon-xna-game install
 Open Source PC game
->>>>>>> master
+
