@@ -27,7 +27,4 @@ git clone https://github.com/IvanSostarko/legend-of-dragon-xna-game.git
 ```
 Open installation folder and run setup.exe
 
-=======
-# legend-of-dragon-xna-game install
-Open Source PC game
 
