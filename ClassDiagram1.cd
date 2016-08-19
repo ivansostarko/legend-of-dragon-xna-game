@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Legenda_o_Zmaju.Camera" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAEAAAABCAQAAggkgAIAQAAAABAAAAAwAAAAQYAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Legenda_o_Zmaju.Entity" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAsAiAgKIIAACAAAAAAIAAAgAAIAIAAA=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Legenda_o_Zmaju.FreeCamera" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAgAAAAAAAAAACAAAAAABAAAIAQAAAEAAAABBAAA=</HashCode>
+      <FileName>FreeCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Legenda_o_Zmaju.Game1" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>3CYAMWJ9Qpjgh5FJBdyENMgA4IAAJlxRLBWODoTQtAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Legenda_o_Zmaju.InstancedModel" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAgAEAIAAAAAIQIAAAAAAAAAIAQAAAAApAAk=</HashCode>
+      <FileName>InstancedModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Legenda_o_Zmaju.InstancedModelPart" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAEAAAEAAAAEAEgACAAIoAJAAAACUAAEAA=</HashCode>
+      <FileName>InstancedModelPart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Legenda_o_Zmaju.Loader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYCAAAAAAAAIBAAAAACBAAAAEAAAAAEAIAAAAACAAA=</HashCode>
+      <FileName>Loader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Legenda_o_Zmaju.LoadingScreen" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQUAAAQAAAAAAgADAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoadingScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Legenda_o_Zmaju.Program" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Legenda_o_Zmaju.Skybox" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQCAAAAAAAAwAAAAAAAAAAAAAAAgAIAAAAAAAAAAA=</HashCode>
+      <FileName>Skybox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Legenda_o_Zmaju.Tree" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAIIAACAAAAAAAIAQAAAAEIAAA=</HashCode>
+      <FileName>Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Legenda_o_Zmaju.Water" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACAAGAAAgAQAAAFAAIACCAQQACQAAAAAAAADAAIA=</HashCode>
+      <FileName>Water.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeeSharp.Xna.Video.VideoPlayer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgBILQICQioAgEMAgAATAKghEAy2IAoMQiAADAYAA=</HashCode>
+      <FileName>VideoPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Enum Name="SeeSharp.Xna.Video.VideoState" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VideoPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
