@@ -26,6 +26,11 @@ Open Legenda O Zmaju.sln in Visual Studio
 ![Screenshoots](https://raw.githubusercontent.com/IvanSostarko/legend-of-dragon-xna-game/gh-pages/images/62847_143352159043550_1815647_n.jpg)
 #### See more screenshots here: [https://ivansostarko.github.io/legend-of-dragon-xna-game/](https://ivansostarko.github.io/legend-of-dragon-xna-game/)
 
-
 ## Trailer
 [![Trailer](http://i3.ytimg.com/vi/U_ZRj_UEBYU/hqdefault.jpg)](https://www.youtube.com/watch?v=U_ZRj_UEBYU)
+
+## Intro
+[![Trailer](http://i3.ytimg.com/vi/jlSFVxZUO7E/hqdefault.jpg)](https://www.youtube.com/watch?v=jlSFVxZUO7E)
+
+## End
+[![Trailer](http://i3.ytimg.com/vi/pmNdRjr44Cg/hqdefault.jpg)](https://www.youtube.com/watch?v=pmNdRjr44Cg)
