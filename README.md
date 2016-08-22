@@ -1,5 +1,7 @@
 # Legend of Dragon 
 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/IvanSostarko/legend-of-dragon-xna-game/blob/master/LICENSE)
+
 An old game I made in 2010 for National competition in informatics - Infokup (Croatia). This is a 3D game using Microsoft XNA 3.0 and C# .NET 2.0. 
 
 ![Legenda o zmaju](https://raw.githubusercontent.com/IvanSostarko/legend-of-dragon-xna-game/gh-pages/images/legenda_o_zmaju.jpg "Legenda o zmaju")
@@ -34,3 +36,12 @@ Open Legenda O Zmaju.sln in Visual Studio
 
 ## End
 [![Trailer](http://i3.ytimg.com/vi/pmNdRjr44Cg/hqdefault.jpg)](https://www.youtube.com/watch?v=pmNdRjr44Cg)
+
+
+
+## License
+>You can check out the full license [here](https://github.com/IvanSostarko/legend-of-dragon-xna-game/blob/master/LICENSE)
+
+This project is licensed under the terms of the **MIT** license.
+
+
