@@ -1,6 +1,6 @@
 //-----------------------------------------------------------------------------
 // Program.cs
-// Programiranje: Ivan Šoštarko (ivan.sostarko@gmail.com)
+// Programiranje: Ivan Šoštarko (ivan.sostarko@hotmail.com)
 // Dizajn Ruben: Petran (rubenpetran@gmail.com)
 // Copyright (C)219 GAME STUDIO. All rights reserved.
 //-----------------------------------------------------------------------------
@@ -8,18 +8,16 @@ using System;
 
 namespace Legenda_o_Zmaju
 {
-    static class Program
+static class Program
+{
+
+    static void Main(string[] args)
     {
-        /// <summary>
-        /// Glavi dio igre
-        /// </summary>
-        static void Main(string[] args)
+        using (Game1 game = new Game1())
         {
-            using (Game1 game = new Game1())
-            {
-                game.Run();
-            }
+            game.Run();
         }
     }
+}
 }
 

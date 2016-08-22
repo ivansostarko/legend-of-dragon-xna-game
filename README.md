@@ -21,10 +21,9 @@ git clone https://github.com/IvanSostarko/legend-of-dragon-xna-game.git
 ```
 Open Legenda O Zmaju.sln in Visual Studio
 
-## Install game 
-```sh
-git clone https://github.com/IvanSostarko/legend-of-dragon-xna-game.git
-```
-Open installation folder and run setup.exe
+
+## ScreenShoots
+![Screenshoots](https://raw.githubusercontent.com/IvanSostarko/legend-of-dragon-xna-game/gh-pages/images/62847_143352159043550_1815647_n.jpg)
+[https://ivansostarko.github.io/legend-of-dragon-xna-game/](https://ivansostarko.github.io/legend-of-dragon-xna-game/)
 
 
